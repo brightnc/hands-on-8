@@ -1,0 +1,8 @@
+.imageContainer img {
+  width: 100%;
+}
+.imageContainer {
+  width: 416px;
+  height: 234px;
+  cursor: pointer;
+}
