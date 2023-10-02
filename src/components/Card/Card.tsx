@@ -16,7 +16,7 @@ const Card = ({ post }: ICardProps) => {
       <p>{post.description}</p>
       <div className={classes.hashtagContainer}>
         {post.tags.map((tag) => {
-          return <Hashtag tag={tag} />
+          return <Hashtag key={tag} tag={tag} />
         })}
       </div>
     </div>
