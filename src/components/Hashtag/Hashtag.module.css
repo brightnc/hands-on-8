@@ -1,0 +1,17 @@
+.hashtagContainer {
+  display: inline-block;
+  border: 1px solid #6b6b6b;
+  width: auto;
+  border-radius: 20px;
+  padding: 5px 8px;
+}
+
+.hashtagContainer p {
+  color: #6b6b6b;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.hashtagContainer:hover {
+  cursor: pointer;
+}

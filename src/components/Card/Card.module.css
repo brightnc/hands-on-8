@@ -14,3 +14,8 @@
   color: red;
   font-weight: bold;
 }
+
+.hashtagContainer {
+  display: flex;
+  gap: 15px;
+}

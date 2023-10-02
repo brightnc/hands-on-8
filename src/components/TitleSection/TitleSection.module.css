@@ -5,8 +5,9 @@
   width: 916px;
 }
 .SectionContainer a {
+  font-size: 15px;
   color: #b90101;
-  font-weight: 500;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -14,4 +15,5 @@
   display: flex;
   align-items: center;
   gap: 10px;
+  color: #6b6b6b;
 }

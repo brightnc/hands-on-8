@@ -41,3 +41,26 @@ export const blogs: BlogDTO[] = [
     url: 'https://blogs.cleverse.com/solving-dapps-problem-with-merkle-drop-ff656adca942',
   },
 ]
+
+export const youtubePosts: BlogDTO[] = [
+  {
+    header: 'THE EXPECTATION EP1 : Senior Developer - Management Overhead',
+    description:
+      'What are the expectations for a senior developer versus a junior developer? What does the company expect from each developer path? How can I advance to senior developer as soon as possible? Let’s find out the answers in this interview!!!',
+    tags: [],
+    author: 'Panjamapong',
+    date: 'Apr 9th, 2021',
+    readingTime: '6 min',
+    url: 'https://blog.arken.finance/introducing-the-defi-review-by-arken-finance-da9e11581d50',
+  },
+  {
+    header: 'THE EXPECTATION EP5 : Junior Developer - Survival Skill',
+    description:
+      '"Get stuck in my work. See no way out. What should I do?" Unsure on your own system design? How do we solve these problems? Let’s find out the answers in this interview!!!',
+    tags: [],
+    author: 'Jakpat',
+    date: 'Jul 16th, 2021',
+    readingTime: '5 min',
+    url: 'https://blogs.cleverse.com/welcome-to-the-world-of-web-3-0-d16b61235dc4',
+  },
+]
