@@ -1,0 +1,16 @@
+.cardContainer {
+  width: 443px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.authorContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.authorText {
+  color: red;
+  font-weight: bold;
+}

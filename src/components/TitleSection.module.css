@@ -1,0 +1,17 @@
+.SectionContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 916px;
+}
+.SectionContainer a {
+  color: #b90101;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
